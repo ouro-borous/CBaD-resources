@@ -2,6 +2,8 @@
 
 ["Tularosa Study"](https://www.usenix.org/publications/loginonline/imposing-cyber-penalty-against-attackers-cyber-deception ) - examining efficacy of cyber deception in environment against various experts in offensive security. Based on Moonraker study.
 
-[Examining the Efficacy of Decoy-based and Psychological Cyber Deception](https://www.usenix.org/conference/usenixsecurity21/presentation/ferguson-walter) - yet another USENIX paper on efficacy. This one is similar to the Tularosa study in terms of experiment structure and findings, but adds some funny responses from test subjects.
+[Examining the Efficacy of Decoy-based and Psychological Cyber Deception](https://www.usenix.org/conference/usenixsecurity21/presentation/ferguson-walter) - Follow up to the Tularosa study. The original TS paper discusses the design and implementation of the study, this paper discusses the findings and takeaways.
 
-[The Case for Unpredictability and Deception as OS Features](https://www.usenix.org/system/files/login/articles/login_aug15_03_sun.pdf) - an interesting paper from 2015 regarding OS API design. Attempts to combat malware and automated attacks by introducing "uncertainty" into an operating system. The PoC, an OS called Chameleon, didn't end up being fully developed.
+[The Case for Unpredictability and Deception as OS Features](https://www.usenix.org/system/files/login/articles/login_aug15_03_sun.pdf) - An interesting paper from 2015 regarding OS API design. Attempts to combat malware and automated attacks by introducing "uncertainty" into an operating system. The PoC, an OS called Chameleon, didn't end up being fully developed.
+
+[ACyDS: An adaptive cyber deception system](https://ieeexplore.ieee.org/document/7795427) - Detailing the theory behind a moving-target network defense using OpenFlow
