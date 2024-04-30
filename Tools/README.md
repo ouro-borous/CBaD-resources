@@ -2,6 +2,7 @@
   - [thug](https://github.com/buffer/thug) - Emulating an automated web client
   - [honeybits](https://github.com/0x4D31/honeybits) - Spread information supporting the legitimacy of honeypots.
   - [DECEPTICON-BOT](https://github.com/jocephus/DECEPTICON_Bot) - Twitter AI bot designed to support OPSEC and make OSINT more difficult/confusing.
+  - [portspoof](http://portspoof.org) - Service that emulates random service signatures. 
 ## Deception
   - [Artillery](https://github.com/BinaryDefense/artillery) - A blue team tool designed to protect Linux and Windows operating systems. File monitoring, honeypot, email notification, firewall, DOS protection.
   - [OpenCanary](https://github.com/thinkst/canarytokens-docker) - A program to host a local CanaryTokens server
