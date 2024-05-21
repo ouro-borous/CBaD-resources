@@ -1,4 +1,4 @@
-*author's note* 
+*author's note:* 
 I, admittedly, have some bias as to my favorite readings. Barton Whaley and Kimberly Ferguson-Walter are by far my favorite deception-related authors, with Whaley being a well-known military deception thinker from the 20th century and Ferguson-Walter being a more recent cyber deception researcher researching the mental and emotional processes of attackers on which cyber deception is based. Please explore a variety of readings from a variety of authors during your research.
 
 ["Moonraker Study"](https://www.researchgate.net/publication/337464633_The_Moonraker_Study_An_Experimental_Evaluation_of_Host-Based_Deception) - also examining efficacy. Performed in military setting and focuses more on emotional response.
