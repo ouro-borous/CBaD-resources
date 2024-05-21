@@ -1,11 +1,17 @@
 *author's note:* 
 I, admittedly, have some bias as to my favorite readings. Barton Whaley and Kimberly Ferguson-Walter are by far my favorite deception-related authors, with Whaley being a well-known military deception thinker from the 20th century and Ferguson-Walter being a more recent cyber deception researcher researching the mental and emotional processes of attackers on which cyber deception is based. Please explore a variety of readings from a variety of authors during your research.
 
-["Moonraker Study"](https://www.researchgate.net/publication/337464633_The_Moonraker_Study_An_Experimental_Evaluation_of_Host-Based_Deception) - also examining efficacy. Performed in military setting and focuses more on emotional response.
+["Tularosa Study"](https://www.usenix.org/publications/loginonline/imposing-cyber-penalty-against-attackers-cyber-deception ) - examining efficacy of cyber deception in environment against various experts in offensive security. Based on Moonraker study. I consider this the "monolithic" cyber deception study.
 
-["Tularosa Study"](https://www.usenix.org/publications/loginonline/imposing-cyber-penalty-against-attackers-cyber-deception ) - examining efficacy of cyber deception in environment against various experts in offensive security. Based on Moonraker study.
+[Appendix to "Tularosa Study"](https://www.researchgate.net/publication/372160277_Appendix_to_The_Tularosa_Study_An_Experimental_Design_and_Implementation_to_Quantify_the_Effectiveness_of_Cyber_Deception) - design and implementation of the Tularosa Study, including the questionnaire given to participating red teamers.
 
 [Examining the Efficacy of Decoy-based and Psychological Cyber Deception](https://www.usenix.org/conference/usenixsecurity21/presentation/ferguson-walter) - Follow up to the Tularosa study. The original TS paper discusses the design and implementation of the study, this paper discusses the findings and takeaways.
+
+[Friend or Faux: Deception for Cyber Defense](https://www.researchgate.net/publication/330425001_Friend_or_Faux_Deception_for_Cyber_Defense) - "sets the stage" for the later Tularosa Study. Interesting reading, but kind of just acknowledges deception/information operations as a discipline and outlines techniques without going into much depth or establishing empirical baselines.
+
+["Moonraker Study"](https://www.researchgate.net/publication/337464633_The_Moonraker_Study_An_Experimental_Evaluation_of_Host-Based_Deception) - also examining efficacy. Performed in military setting and focuses more on emotional response.
+
+[Frustration, confusion, surprise, confidence, and self-doubt: Cyber operators' affects during a realistic experiment](https://www.researchgate.net/publication/374870776_Frustration_confusion_surprise_confidence_and_self-doubt_Cyber_operators'_affects_during_a_realistic_experiment) - Ferguson-Walter's analysis of emotional response from red teamers during engagements. Not necessarily focused on deception, but shows how psychological effects can be measured.
 
 [The Case for Unpredictability and Deception as OS Features](https://www.usenix.org/system/files/login/articles/login_aug15_03_sun.pdf) - An interesting paper from 2015 regarding OS API design. Attempts to combat malware and automated attacks by introducing "uncertainty" into an operating system. The PoC, an OS called Chameleon, didn't end up being fully developed.
 
