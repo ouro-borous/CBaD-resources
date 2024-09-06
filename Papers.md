@@ -6,6 +6,7 @@ I, admittedly, have some bias to my favorite readings. Barton Whaley and Kimberl
 # C-Type (Countersensory)
 
 - [ACyDS: An adaptive cyber deception system](https://ieeexplore.ieee.org/document/7795427) - Detailing the theory behind a moving-target network defense using OpenFlow.
+- [Adversarially Adapting Deceptive Views and Reconnaissance Scans on a Software Defined Network](https://alfagroup.csail.mit.edu/sites/default/files/documents/ed_evolution_of_deception_in_sdn.pdf) - Combining SDNs with honeypots to slow down an nmap scan (probably extends to other mass-scanning tools easily.)
 
 # D-Type (Deceptive)
 
@@ -16,6 +17,7 @@ I, admittedly, have some bias to my favorite readings. Barton Whaley and Kimberl
 - ["Moonraker Study"](https://www.researchgate.net/publication/337464633_The_Moonraker_Study_An_Experimental_Evaluation_of_Host-Based_Deception) - also examining efficacy. Performed in military setting and focuses more on emotional response.
 - [The Case for Unpredictability and Deception as OS Features](https://www.usenix.org/system/files/login/articles/login_aug15_03_sun.pdf) - An interesting paper from 2015 regarding OS API design. Attempts to combat malware and automated attacks by introducing "uncertainty" into an operating system. The PoC, an OS called Chameleon, didn't end up being fully developed.
 - [Towards a Cognitive Theory of Cyber Deception](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13013) - Applying game theory (Stackelberg security games) to the risk/reward model of interacting with deception.
+- [Cyber Deception: Overview and the Road Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8328971) - Defining some differences between physical deception (kinetic warfare highly implied) and cyber deception. Also talks about differences between deception and MTD. Mostly good points, but I feel like Table 1 is a miss because it assumes symmetrical/parallel behavior between defender and attacker with symmetrical/parallel goals. 
 
 # P-Type (Psychological)
 
@@ -31,5 +33,9 @@ I, admittedly, have some bias to my favorite readings. Barton Whaley and Kimberl
 - [Signals in Social Supernets](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.2007.00394.x) - Discussion of how social networking sites change social interaction and signaling. Fundamental building block of social and emotional influence. By J. Donath
 - [Urbanhermes: social signaling with electronic fashion](https://dl.acm.org/doi/10.1145/1124772.1124902) - Demonstrating signaling online through new, electronic forms of "fashion" (like updating your status on Twitter, posting on Instagram, etc.) Also co-authored by Donath.
 
-# Generic Cybercriminal Profile
+# General Cybercriminal Profiling
 - [Dimensions of Cyber-Attacks: Cultural, Social, Economic, and Political](https://ieeexplore.ieee.org/document/5725605) - Describes cybercriminal motivations as falling under three main categories: political, economical, and socio-cultural.
+
+# Military Deception
+- Stratagem: Deception and Surprise in War - Whaley discusses the advantages and practices of deception in war with an *extreme* plethora of case studies from various wars and battles.
+- Turnabout and Deception: Crafting the Double-Cross and the Theory of Outs - Whaley discusses "Double agents" in adversarial settings.
